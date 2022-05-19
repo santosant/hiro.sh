@@ -10,7 +10,7 @@ const Home: NextPage = () => {
       <div className='m-auto text-center'>
         <div className='inline-block'>
           <h1 className='font-bold text-[5rem] leading-[-.1rem] cursor-pointer'>
-            Antonio Anderson
+            Anderson
           </h1>
           <h2 className='text-[1.5rem] font-semibold text-center md:text-center'>
             Software Engineer, Human;
