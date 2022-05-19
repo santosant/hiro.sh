@@ -23,7 +23,7 @@ const Home: NextPage = () => {
               Linkedin
             </Link>{' '}
             &nbsp;|&nbsp;
-            <Link href=''>
+            <Link href='https://www.instagram.com/santosantt/'>
               Instagram
             </Link>{' '}
             &nbsp;|&nbsp;
