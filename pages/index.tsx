@@ -13,7 +13,7 @@ const Home: NextPage = () => {
             Anderson
           </h1>
           <h2 className='text-[1.5rem] font-semibold text-center md:text-center'>
-            Software Engineer, Human;
+            Fullstack Developer, Human;
           </h2>
           <div className='height:1.5rem'></div>
           <p className='text-center py-5'>
