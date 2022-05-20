@@ -17,13 +17,13 @@ const Home: NextPage = () => {
           </h2>
           <div className='height:1.5rem'></div>
           <p className='text-center py-5'>
-            <Link href='https://twitter.com/hirowf'>Twitter </Link>{' '}
+            <Link href=''>Twitter </Link>{' '}
             &nbsp;|&nbsp;
             <Link href=''>
               Linkedin
             </Link>{' '}
             &nbsp;|&nbsp;
-            <Link href='https://www.instagram.com/santosantt/'>
+            <Link href=''>
               Instagram
             </Link>{' '}
             &nbsp;|&nbsp;
