@@ -3,9 +3,6 @@ import Link from 'next/link';
 
 const Home: NextPage = () => {
   return (
-    // <div className="h-screen bg-gradient-to-r from-indigo-500 flex items-center justify-center">
-    //   <div className="bg-indigo-500 block w-96 h-96 m-8 rounded-full shadow-[inset -25px -25px 40px rgba(0,0,0,.5)]"></div>
-    // </div>
     <div className='flex h-screen one-e bg-[#1e1e1e] text-white'>
       <div className='m-auto text-center'>
         <div className='inline-block'>
@@ -36,6 +33,3 @@ const Home: NextPage = () => {
 };
 
 export default Home;
-// font-size: 1.5rem;
-//     font-weight: 600;
-//     text-align: right;
