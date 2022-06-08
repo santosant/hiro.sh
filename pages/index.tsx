@@ -18,7 +18,7 @@ const Home: NextPage = () => {
           <p className='text-center py-5'>
             <Link href='https://twitter.com/hirowf'>Twitter </Link>{' '}
             &nbsp;|&nbsp;
-            <Link href='https://www.linkedin.com/in/santosant/'>
+            <Link href=''>
               Linkedin
             </Link>{' '}
             &nbsp;|&nbsp;
